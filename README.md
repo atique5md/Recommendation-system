@@ -9,5 +9,5 @@ Here we searchs the books
 <img width="1910" height="466" alt="Screenshot 2025-08-31 162849" src="https://github.com/user-attachments/assets/01f7ebbd-7555-4e92-a4d2-b7c1667e00c3" />
 
 Results  <br>
-Best 5 books recommendation relevent to search
+Best 5 books recommendation according to search
 <img width="1894" height="883" alt="Screenshot 2025-08-31 162926" src="https://github.com/user-attachments/assets/1a6c4928-b1f6-46d8-820c-27cb1fd57ece" />
